@@ -2,3 +2,4 @@
 - 3 Potatoes
 - 2 Onions
 - 3 Carrots
+- 2 Chickens
