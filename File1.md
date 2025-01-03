@@ -3,3 +3,4 @@
 - Need to add files to staging area
 - Need to commit alterations
 - Can Stash alterations
+- New Line to Commit
