@@ -4,3 +4,4 @@
 - 3 Carrots
 - 2 Chickens
 - 2 Beefs
+- 1 Coca-Cola
