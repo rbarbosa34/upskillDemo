@@ -4,3 +4,4 @@
 - Need to commit alterations
 - Can Stash alterations
 - New Line to Commit
+- Ready for publication
