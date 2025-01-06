@@ -5,3 +5,4 @@
 - Can Stash alterations
 - New Line to Commit
 - Ready for publication
+- Git commit from IntelliJ
